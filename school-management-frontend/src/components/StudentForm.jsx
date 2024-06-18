@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './StudentForm.css';
 
 function StudentForm({ onAddStudent }) {
   const [name, setName] = useState('');
@@ -14,7 +15,7 @@ function StudentForm({ onAddStudent }) {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form className="form-container" onSubmit={handleSubmit}>
       <input
         type="text"
         value={name}

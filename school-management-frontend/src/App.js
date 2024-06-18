@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import StudentForm from './StudentForm';
-import StudentList from './StudentList';
+import StudentForm from './components/StudentForm.jsx';
+import StudentList from './components/StudentList.jsx';
 
 function App() {
   const [students, setStudents] = useState([]);
