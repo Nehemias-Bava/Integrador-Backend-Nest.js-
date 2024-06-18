@@ -1,0 +1,9 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 15,
+      "monthlyFee": 200,
+      "paid": false
+    }
+  ]
