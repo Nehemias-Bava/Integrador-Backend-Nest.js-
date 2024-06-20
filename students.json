@@ -7,16 +7,16 @@
     "paid": true
   },
   {
-    "id": 2,
-    "name": "German Lux",
-    "age": 17,
-    "monthlyFee": 2,
-    "paid": true
-  },
-  {
     "id": 3,
     "name": "Luciana Aymar",
     "age": 14,
+    "monthlyFee": 1,
+    "paid": false
+  },
+  {
+    "id": 4,
+    "name": "Diego Armando Maradona",
+    "age": 18,
     "monthlyFee": 1,
     "paid": false
   }

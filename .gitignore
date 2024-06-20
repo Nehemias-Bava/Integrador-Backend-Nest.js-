@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Compiled output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Temporary by-product files
+*.pid
+*.seed
+*.pid.lock
